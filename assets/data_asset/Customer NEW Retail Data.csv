@@ -1,0 +1,300 @@
+CustomerID,Birth_Date,Age,Sex,Customer_Years,Product_Group,Total_Store Visits,Marketing_Channel,Marital Status,Children,Payment,Region,Area,Revenue_Total,Mean_Purchase_Amount,Highest_Articel_Revenue
+0017000000gaecx,1989-11-13,33,m,12,Good and cheap,75,Email,single,1,Credit Card,North,City,15000.00,,84.99
+0017000000RJMWL,1981-07-21,30,m,12,Good and cheap,143,Letter,Married,1,Cash,South,City,15000.00,,499.00
+001300000082xf9,1982-01-01,38,m,16,Middle Price Segment,126,Email,single,1,Cash,North,City,26250.00,63.50,69.00
+001300000082yHl,1956-09-18,38,m,8,Good and cheap,451,Letter,,0,Apple Pay,North,City,15000.00,19.59,144.00
+00130000008301f,1994-09-28,63,f,12,Good and cheap,18,Social Media,,1,Cash,South,City,12900.00,54.00,228.00
+0013000000834C4,1967-10-24,25,f,12,Good and cheap,163,Letter,,0,Credit Card,North,City,12000.00,54.00,89.00
+0015000000FHPav,1990-07-22,52,m,15,Upper Price Segment,54,Phone,,0,Credit Card,South,City,15000.00,54.00,85.00
+0017000000dQ5gU,1990-05-30,29,m,15,Upper Price Segment,56,Email,Married,1,Apple Pay,South,Country,15000.00,23.23,99.00
+0017000000POGPz,1994-11-17,29,f,12,Good and cheap,11,Social Media,Married,1,Credit Card,North,Country,13050.00,23.23,129.00
+001300000036mRl,1992-02-06,25,f,12,Good and cheap,11,Social Media,,1,Credit Card,South,City,12000.00,149.99,149.00
+001300000082xix,1978-05-31,28,f,16,Upper Price Segment,123,Email,,1,Credit Card,South,Country,12750.00,,149.00
+001300000082ylH,1979-01-12,41,m,16,Middle Price Segment,150,Letter,,1,Credit Card,South,City,47490.00,,149.00
+00130000008308J,1990-06-29,41,m,16,Upper Price Segment,20,Phone,,1,Apple Pay,South,City,19500.00,33.65,249.00
+00130000008cSfs,1988-10-10,29,m,16,Middle Price Segment,60,Email,,1,Credit Card,South,City,23250.00,20.45,249.00
+0015000000FTmDH,1993-03-28,31,m,15,Upper Price Segment,25,Phone,,1,Apple Pay,South,City,15000.00,31.82,249.00
+0017000000fL6Ey,1992-12-29,27,f,15,Upper Price Segment,24,Phone,,1,Cash,South,City,16500.00,31.82,213.00
+0017000000QwQml,1993-09-14,27,f,15,Upper Price Segment,24,Phone,single,0,Credit Card,North,City,13500.00,31.82,39.99
+0013000000799tv,1969-11-27,26,f,12,Good and cheap,156,Letter,single,1,Credit Card,South,City,9750.00,124.00,199.00
+001300000082xNc,1960-01-12,50,f,12,Good and cheap,72,Email,Married,1,Apple Pay,North,City,9750.00,,349.00
+001300000082yoo,1989-09-08,60,f,16,Middle Price Segment,19,Phone,Married,1,Credit Card,North,City,17250.00,40.24,349.00
+0013000000830k7,1992-10-08,30,m,12,Good and cheap,37,Phone,Married,1,Apple Pay,North,Country,14400.00,46.00,349.00
+00130000008pQMK,1991-10-30,27,m,12,Good and cheap,38,Phone,Married,1,Credit Card,North,City,15000.00,22.49,349.00
+0015000000GGoPH,1957-06-08,28,m,12,Good and cheap,367,Letter,Married,1,Apple Pay,North,Country,13500.00,,349.00
+0017000000hJMOl,1980-10-29,62,f,15,Upper Price Segment,79,Email,,0,Credit Card,North,City,15000.00,,449.00
+0017000000SIcnf,1977-06-02,39,m,20,High class,134,Email,Married,1,Cash,North,City,42480.00,102.00,382.00
+001300000082wop,1962-05-25,42,m,8,Good and cheap,438,Letter,single,0,Cash,North,Country,15000.00,149.00,189.00
+001300000082x2q,1994-05-26,57,m,8,Sales,171,Letter,Married,1,Credit Card,South,Country,15600.00,59.50,103.00
+001300000082xto,1990-02-20,25,f,16,Upper Price Segment,19,Phone,,1,Cash,South,Country,17250.00,,199.00
+001300000082xWW,1989-12-27,30,f,12,Good and cheap,69,Email,single,0,Credit Card,North,City,16500.00,36.47,119.00
+001300000082ytS,1965-06-04,30,f,12,Good and cheap,72,Email,,0,Credit Card,South,City,10200.00,24.49,197.00
+001300000082ywb,1992-06-06,54,m,12,Good and cheap,29,Phone,,1,Credit Card,North,City,13050.00,24.49,128.00
+0013000000831Ns,1987-06-10,27,f,12,Good and cheap,59,Email,Married,1,Credit Card,North,City,12750.00,11.03,6.99
+0013000000832H9,1966-05-22,32,f,12,Good and cheap,101,Email,single,1,Credit Card,South,Country,10200.00,11.03,339.00
+00130000009yucs,1970-07-24,53,f,12,Good and cheap,228,Letter,,1,Credit Card,North,City,10200.00,18.40,349.00
+0013000000AsFCp,1987-07-18,49,m,15,Upper Price Segment,72,Email,single,1,Credit Card,North,City,15750.00,106.00,54.00
+0015000000Ij7r0,1992-03-23,32,m,15,Upper Price Segment,53,Phone,Married,1,Credit Card,South,Country,15000.00,54.00,94.00
+0015000000JsiuD,1958-01-13,28,m,8,Good and cheap,380,Letter,,0,Credit Card,South,Country,15000.00,79.00,216.00
+0017000000KVzQ8,1991-11-22,62,m,15,Upper Price Segment,33,Phone,Married,1,Credit Card,South,Country,20400.00,49.00,258.00
+0017000000LETi2,1990-12-14,28,m,16,Middle Price Segment,13,Social Media,,1,Credit Card,North,City,21750.00,79.99,109.00
+0017000000UbR84,1961-06-22,29,f,12,Good and cheap,208,Letter,single,0,Credit Card,South,Country,18750.00,59.50,229.00
+0017000000V1MTb,1977-08-13,58,f,12,Good and cheap,240,Letter,single,0,Credit Card,North,Country,19980.00,59.00,139.00
+001300000082xC1,1990-04-02,42,f,8,Sales,35,Phone,single,0,Cash,South,City,16500.00,26.31,299.00
+001300000082yEJ,1959-03-10,23,f,12,Good and cheap,288,Letter,single,0,Credit Card,South,City,10200.00,,299.00
+001300000082zTO,1977-02-24,61,m,12,Good and cheap,180,,,0,Credit Card,South,City,12750.00,69.00,399.00
+0013000000833Ws,1993-12-07,43,f,12,Good and cheap,41,Phone,single,1,Apple Pay,North,City,12000.00,83.99,39.95
+0015000000EhB7c,1965-08-26,26,f,15,Upper Price Segment,231,Letter,,0,Credit Card,North,Country,15750.00,104.00,149.00
+0017000000ckQRM,1983-03-24,54,f,12,Good and cheap,36,Phone,Married,0,Cash,South,City,12750.00,101.00,34.99
+0017000000O8N2U,1973-07-19,37,f,16,Upper Price Segment,214,Letter,,0,Credit Card,South,City,12000.00,6.99,79.99
+001300000082x6B,1990-02-16,46,m,15,Middle Price Segment,49,Phone,single,0,Apple Pay,North,City,25500.00,52.00,139.00
+001300000082xZC,1979-08-03,30,m,19,Middle Price Segment,156,Letter,Married,0,Credit Card,South,City,43500.00,54.00,349.00
+001300000082yZt,1985-06-20,40,m,16,Middle Price Segment,69,Email,single,1,Credit Card,South,City,27480.00,54.00,269.00
+0013000000833jl,1990-07-01,34,m,17,Middle Price Segment,9,Social Media,,1,Apple Pay,South,City,34980.00,,215.00
+0013000000CC7bv,1982-09-23,29,m,12,Good and cheap,150,Letter,Married,1,Credit Card,North,City,19500.00,86.99,59.00
+0017000000aur8c,1990-08-02,37,m,15,Upper Price Segment,47,Phone,single,0,Apple Pay,South,Country,16500.00,21.29,292.00
+0017000000Mfd3o,1991-08-03,29,m,12,Good and cheap,50,Phone,,1,Apple Pay,North,City,15000.00,21.29,149.99
+0017000000VWGVs,1988-03-08,28,m,15,Upper Price Segment,69,Email,single,1,Apple Pay,North,City,16500.00,,119.99
+001300000082xg6,1971-11-08,32,m,16,Middle Price Segment,258,Letter,Married,1,Apple Pay,North,City,52500.00,10.61,269.00
+001300000082yii,1970-10-07,48,m,12,Good and cheap,284,Letter,Married,1,Credit Card,North,Country,15000.00,,349.00
+00130000008303i,1986-07-03,49,m,15,Upper Price Segment,91,Email,,0,Credit Card,South,City,17250.00,22.49,179.00
+00130000008cQhw,1996-04-15,33,f,12,Good and cheap,16,Social Media,single,1,Cash,South,City,11250.00,91.50,39.00
+0015000000Fl7iL,1990-06-01,24,f,8,Sales,75,Email,,0,Credit Card,South,City,10200.00,54.00,109.00
+0017000000dYJlK,1976-09-19,29,m,15,Upper Price Segment,216,Letter,single,0,Credit Card,North,Country,16500.00,54.00,129.00
+0017000000PYYKd,1978-03-26,43,m,15,Upper Price Segment,108,Email,,0,Apple Pay,South,City,15000.00,54.00,255.00
+001300000082x1q,1992-09-29,42,m,15,Upper Price Segment,64,Email,,0,Credit Card,North,City,16500.00,33.66,278.00
+001300000082xW9,1973-03-07,27,m,8,Good and cheap,302,Letter,,0,Credit Card,North,Country,15000.00,31.36,549.00
+001300000082yVs,1996-01-30,47,f,12,Good and cheap,9,Social Media,single,1,Cash,North,City,10950.00,21.01,139.00
+0013000000832eB,1996-02-01,24,f,12,Good and cheap,7,Social Media,single,1,Credit Card,South,City,11100.00,,99.00
+0013000000AOV6K,1991-10-02,24,m,15,Upper Price Segment,72,Email,single,1,Apple Pay,South,City,15750.00,,99.00
+0015000000JjL1h,1976-07-31,28,m,16,Upper Price Segment,149,Letter,single,0,Credit Card,South,Country,27750.00,71.12,349.00
+0017000000LECcy,1991-08-07,43,m,15,Upper Price Segment,34,Phone,single,0,Credit Card,North,City,15750.00,54.00,169.00
+0017000000UzYPC,1990-06-20,28,m,12,Good and cheap,32,Phone,,0,Credit Card,North,City,15000.00,17.99,
+001300000082woc,1991-01-02,29,m,12,Middle Price Segment,85,Email,,1,Credit Card,North,Country,15750.00,54.00,109.00
+001300000082xSs,1974-10-07,29,f,12,Good and cheap,97,Email,,0,Credit Card,North,City,13800.00,,315.00
+001300000082yTi,1963-01-31,45,f,15,Upper Price Segment,265,Letter,single,0,Apple Pay,North,City,19500.00,,124.00
+0013000000831i2,1993-07-30,57,f,8,Sales,48,Phone,,1,Credit Card,South,City,10200.00,54.00,119.00
+00130000009uDAp,1962-04-07,26,f,12,Good and cheap,0,Social Media,,1,Cash,South,Country,10200.00,11.24,119.00
+0015000000IgrkP,1995-02-28,58,f,15,Good and cheap,0,Social Media,single,0,Credit Card,North,Country,12750.00,54.99,149.00
+0017000000KVNex,1991-11-07,25,f,16,Upper Price Segment,4,Social Media,,1,Credit Card,South,City,15750.00,94.00,329.00
+0017000000TtHvk,1992-12-02,28,f,12,Good and cheap,11,Social Media,,1,Credit Card,South,City,12000.00,89.00,329.00
+001300000082xb4,1991-02-06,27,f,15,Upper Price Segment,51,Phone,,1,Credit Card,South,City,14250.00,69.00,329.00
+001300000082ydG,1968-01-07,29,f,12,Good and cheap,358,Letter,,1,Cash,South,Country,10200.00,19.51,699.00
+001300000082zsV,1961-06-22,52,m,15,Upper Price Segment,371,Letter,single,1,Credit Card,North,City,15000.00,21.20,109.00
+0013000000833Vb,1992-05-27,58,m,16,Middle Price Segment,3,Social Media,single,1,Credit Card,North,City,21000.00,48.07,109.00
+0013000000EKE0e,1991-01-29,27,m,19,Middle Price Segment,62,Email,single,0,Credit Card,North,City,33750.00,48.07,149.99
+0017000000chQSD,1990-12-06,29,m,15,Upper Price Segment,52,Phone,Married,1,Credit Card,North,City,15000.00,78.33,224.00
+0017000000NNLkH,1988-03-30,29,m,15,Upper Price Segment,44,Phone,Married,0,Apple Pay,North,Country,19500.00,54.00,179.00
+0017000000ZZ5Tw,1990-01-27,32,m,19,Middle Price Segment,13,Social Media,single,1,Credit Card,South,Country,31500.00,109.00,299.00
+001300000082x1l,1991-09-18,30,f,8,Sales,9,Social Media,,1,Credit Card,North,City,12000.00,19.78,154.00
+001300000082xW7,1996-10-20,28,f,12,Good and cheap,0,Social Media,single,1,Credit Card,North,Country,11250.00,129.00,12.99
+001300000082yVP,1996-10-31,23,f,12,Good and cheap,5,Social Media,,1,Apple Pay,North,City,11250.00,42.29,450.00
+0013000000832Dl,1997-01-30,23,f,12,Good and cheap,5,Social Media,,1,Credit Card,North,Country,11225.00,42.29,450.00
+0013000000AGyRe,1988-10-31,23,f,16,Middle Price Segment,81,Email,Married,1,Credit Card,South,Country,18750.00,64.33,129.00
+0015000000JjgWm,1992-01-13,31,f,8,Sales,390,Letter,Married,1,Apple Pay,South,City,10200.00,149.99,129.00
+0017000000Lea4Z,1995-03-21,28,f,12,Good and cheap,4,Social Media,,0,Credit Card,North,City,18000.00,,79.99
+0017000000UzXKd,1996-06-28,25,f,12,Good and cheap,0,Social Media,,0,Apple Pay,North,City,10950.00,69.00,79.99
+001300000082xdY,1992-02-01,23,f,8,Sales,5,Social Media,,0,Cash,North,City,10950.00,102.50,79.99
+001300000082yga,1996-08-01,28,f,12,Good and cheap,18,Social Media,single,0,Cash,North,City,11550.00,13.18,124.00
+001300000082zy1,1995-06-01,23,f,12,Good and cheap,0,Social Media,single,1,Apple Pay,South,City,11250.00,54.00,148.00
+00130000008348l,1995-09-29,24,f,12,Good and cheap,11,Social Media,Married,1,Credit Card,North,City,10950.00,54.00,199.00
+0015000000Ert9C,1996-08-25,24,f,12,Good and cheap,9,Social Media,Married,1,Credit Card,North,City,10950.00,54.00,69.00
+0017000000d0hH4,1996-09-24,23,f,12,Good and cheap,11,Social Media,Married,1,Credit Card,North,City,12000.00,49.50,39.99
+0017000000P1QxV,1994-02-25,23,f,15,Upper Price Segment,19,Phone,single,0,Credit Card,North,City,12750.00,54.50,185.00
+001300000082x4a,1996-06-06,26,f,12,Good and cheap,13,Social Media,single,0,Credit Card,South,City,11250.00,,18.00
+001300000082xyg,1997-02-03,23,m,12,Good and cheap,9,Social Media,,0,Credit Card,North,City,11400.00,94.00,189.00
+001300000082yyJ,1993-07-09,23,f,8,Sales,0,Social Media,Married,0,Cash,South,Country,10200.00,23.52,46.00
+0013000000833ds,1991-06-26,26,m,18,Middle Price Segment,29,Phone,single,0,Apple Pay,South,City,32490.00,34.74,239.00
+0013000000BQanC,1960-01-01,28,m,12,Good and cheap,460,Letter,,0,Credit Card,South,City,15750.00,43.33,79.00
+0017000000andSg,1975-05-21,60,m,19,Middle Price Segment,221,Letter,,0,Credit Card,North,City,27480.00,,372.00
+0017000000LKI9y,1979-02-09,44,m,19,Middle Price Segment,199,Letter,,1,Cash,South,Country,36750.00,21.24,239.00
+0017000000VeOHi,1991-07-26,41,m,8,Sales,24,Phone,,1,Cash,South,Country,11550.00,21.24,239.00
+001300000082wmE,1996-07-31,28,f,12,Good and cheap,5,Social Media,Married,1,Credit Card,North,City,11250.00,21.24,59.95
+001300000082xp9,1996-07-08,23,f,12,Good and cheap,5,Social Media,Married,1,Credit Card,South,Country,11250.00,,139.00
+001300000082yQ2,1996-08-12,23,f,12,Good and cheap,18,Social Media,,1,Apple Pay,North,City,11250.00,149.00,69.00
+0013000000830Qm,1995-11-06,23,f,12,Good and cheap,8,Social Media,,1,Credit Card,North,City,10950.00,31.14,69.00
+00130000009B677,1996-02-29,24,f,12,Good and cheap,4,Social Media,Married,0,Cash,North,Country,11250.00,31.14,249.00
+0015000000GZNLF,1996-06-03,24,f,12,Good and cheap,8,Social Media,,0,Credit Card,South,City,11250.00,54.00,49.99
+0017000000iZJEI,1997-02-09,23,f,12,Good and cheap,0,Social Media,,0,Credit Card,South,City,11250.00,,49.99
+0017000000Sygkg,1991-02-22,23,f,16,Upper Price Segment,3,Social Media,Married,1,Credit Card,North,Country,17250.00,,169.00
+001300000082wnC,1997-01-09,29,f,12,Good and cheap,0,Social Media,single,0,Cash,South,City,10950.00,149.00,69.00
+001300000082xQP,1963-10-02,23,m,12,Good and cheap,272,Letter,single,0,Cash,South,Country,15000.00,54.00,69.00
+001300000082yrl,1993-08-02,56,m,15,Upper Price Segment,38,Phone,single,0,Cash,South,Country,17250.00,,69.00
+0013000000830Yr,1975-03-16,26,m,15,Upper Price Segment,261,Letter,single,0,Cash,South,Country,18000.00,,69.00
+00130000009hRgt,1991-01-09,45,m,15,Upper Price Segment,55,Email,Married,1,Credit Card,North,City,16500.00,54.00,229.00
+0015000000I1sWX,1991-11-03,29,m,18,Good and cheap,30,Phone,single,0,Cash,South,City,31980.00,16.95,1999.00
+0017000000jy4GB,1967-03-30,28,m,12,Good and cheap,308,Letter,single,0,Credit Card,North,Country,15750.00,16.95,25.00
+0017000000SZYKq,1991-12-21,53,m,16,Middle Price Segment,12,Social Media,single,0,Credit Card,South,City,21750.00,16.95,79.00
+001300000082x7W,1990-06-01,28,m,12,Good and cheap,94,Email,,0,Cash,North,City,16500.00,16.95,49.00
+001300000082y40,1992-09-26,29,m,16,Middle Price Segment,12,Social Media,,1,Cash,North,City,21000.00,16.95,79.99
+001300000082zg0,1992-10-05,27,f,16,Middle Price Segment,20,Phone,,0,Credit Card,North,Country,17490.00,279.00,123.00
+0013000000833oU,1992-10-28,27,f,8,Sales,70,Email,Married,1,Credit Card,South,City,12000.00,279.00,89.00
+0013000000CywIk,1996-09-01,27,f,12,Good and cheap,8,Social Media,single,0,Credit Card,South,City,12000.00,279.00,59.00
+0017000000bBv28,1997-03-07,23,f,12,Good and cheap,5,Social Media,single,1,Credit Card,South,City,10950.00,279.00,44.99
+0017000000MIMk9,1972-07-06,23,m,8,Good and cheap,246,Letter,Married,1,Credit Card,South,City,15750.00,,292.00
+0017000000Y8P0E,1991-01-31,47,m,14,Upper Price Segment,47,Phone,single,0,Credit Card,South,City,15000.00,52.98,69.00
+001300000082wmz,1990-07-13,29,m,19,Middle Price Segment,35,Phone,,1,Cash,North,City,,54.00,299.00
+001300000082xPx,1989-02-25,29,m,19,Middle Price Segment,45,Phone,,0,Credit Card,South,City,33000.00,18.88,129.00
+001300000082yR2,1957-10-13,31,m,8,Good and cheap,429,Letter,single,1,Credit Card,South,City,15750.00,54.00,109.00
+0013000000830UT,1985-07-23,62,m,15,Middle Price Segment,133,Email,,1,Credit Card,North,City,25500.00,54.00,8.99
+00130000009e9Fk,1992-06-05,34,m,16,Upper Price Segment,20,Phone,Married,0,Credit Card,South,City,19500.00,101.33,84.00
+0015000000HNL7B,1982-06-09,27,m,15,Middle Price Segment,176,Letter,Married,1,Credit Card,South,Country,23730.00,,179.00
+0017000000jK4mq,1992-03-14,37,m,17,Middle Price Segment,26,Phone,Married,1,Credit Card,South,City,30750.00,93.31,179.00
+0017000000SzI2L,1981-08-21,28,m,18,Middle Price Segment,149,Letter,Married,1,Credit Card,South,City,36240.00,,179.00
+001300000082xgq,1962-02-08,38,m,12,Good and cheap,387,Letter,,0,Credit Card,South,City,15750.00,99.99,110.00
+001300000082yIX,1990-09-22,58,m,14,Upper Price Segment,53,Phone,Married,1,Credit Card,South,City,15000.00,74.50,249.00
+00130000008304O,1993-02-04,29,m,15,Upper Price Segment,24,Phone,single,0,Credit Card,South,City,14250.00,49.00,349.00
+00130000008cQxQ,1996-02-26,27,m,12,Good and cheap,25,Phone,single,0,Apple Pay,South,City,12750.00,27.47,349.00
+0015000000FMSxD,1990-01-05,24,m,8,Sales,476,Letter,single,0,Credit Card,North,City,15750.00,69.33,395.00
+0017000000e4G9Y,1991-06-30,30,m,12,Good and cheap,48,Phone,Married,1,Credit Card,South,Country,15000.00,52.00,59.95
+0017000000QfMGt,1969-09-01,28,f,12,Good and cheap,209,Letter,Married,1,Cash,South,City,15300.00,54.00,59.95
+001300000082woG,1994-01-09,50,f,12,Good and cheap,47,Phone,,0,Credit Card,South,City,13500.00,24.28,233.00
+001300000082xt8,1992-09-26,26,f,15,Upper Price Segment,6,Social Media,,0,Credit Card,South,City,18000.00,59.99,169.99
+001300000082ytm,1987-10-12,27,m,16,Upper Price Segment,105,Email,,0,Credit Card,South,Country,15000.00,,169.99
+0013000000831K3,1995-12-21,32,m,12,Good and cheap,7,Social Media,,0,Cash,North,City,13500.00,42.00,99.00
+00130000009VfxR,1994-02-13,24,m,8,Sales,320,Letter,,0,Apple Pay,South,City,15000.00,54.00,179.00
+0015000000Ih4Ax,1965-06-28,26,m,12,Good and cheap,281,Letter,single,1,Credit Card,North,City,15750.00,64.28,399.00
+0017000000KVtCq,1973-02-13,54,f,15,Upper Price Segment,51,Phone,single,1,Credit Card,North,City,13500.00,64.28,399.00
+0017000000Tvh6n,1969-03-12,47,m,12,Good and cheap,317,Letter,,0,Credit Card,South,City,15750.00,54.00,199.00
+001300000082x6T,1993-08-21,51,m,15,Upper Price Segment,41,Phone,single,1,Apple Pay,North,City,16500.00,59.00,189.00
+001300000082y06,1972-12-09,26,m,16,Middle Price Segment,264,Letter,Married,0,Apple Pay,South,City,32490.00,99.00,349.00
+001300000082z7g,1990-06-19,47,m,15,Upper Price Segment,63,Email,Married,0,Credit Card,South,City,18000.00,54.00,327.00
+0013000000833mp,1991-12-05,29,m,15,Upper Price Segment,38,Phone,Married,0,Cash,South,City,15750.00,109.00,232.00
+0013000000Cl3lr,1991-08-09,28,m,16,Upper Price Segment,22,Phone,Married,0,Credit Card,South,Country,21240.00,22.64,289.00
+0017000000bAAvO,1978-07-03,28,f,12,Good and cheap,63,Email,,1,Cash,South,City,12000.00,,399.00
+0017000000MgF0h,1990-07-28,41,f,12,Good and cheap,64,Email,,0,Apple Pay,South,City,14250.00,37.99,279.00
+0017000000WUQbz,1997-03-12,29,f,12,Good and cheap,0,Social Media,,0,Credit Card,North,City,11250.00,,29.99
+001300000082x7y,1994-04-11,23,f,12,Good and cheap,38,Phone,single,0,Apple Pay,North,City,13500.00,,699.00
+001300000082y45,1997-02-04,26,f,12,Good and cheap,4,Social Media,single,0,Credit Card,South,City,12150.00,34.50,144.00
+001300000082zI0,1987-06-01,23,m,15,Upper Price Segment,52,Phone,,1,Apple Pay,South,City,15000.00,149.50,74.00
+0013000000833pk,1996-07-15,32,m,12,Good and cheap,12,Social Media,Married,1,Credit Card,North,City,11550.00,149.50,299.00
+0013000000Czr0W,1988-07-07,23,m,16,Middle Price Segment,61,Email,Married,0,Cash,North,City,21990.00,54.00,19.99
+0017000000bBvVy,1993-07-18,31,m,15,Upper Price Segment,12,Social Media,Married,0,Credit Card,South,Country,15750.00,,59.00
+0017000000MIvJt,1964-03-28,26,m,12,Good and cheap,385,Letter,,1,Apple Pay,North,City,15000.00,28.99,119.00
+0017000000Y913J,1981-03-13,56,f,12,Good and cheap,6,Social Media,,1,Credit Card,North,Country,12000.00,79.99,179.00
+001300000082xa2,1965-07-18,39,f,12,Good and cheap,90,Email,single,1,Credit Card,North,City,14250.00,,94.00
+001300000082yB9,1994-09-28,54,f,15,Upper Price Segment,7,Social Media,single,1,Credit Card,North,City,12000.00,37.00,89.00
+001300000082zqJ,1994-03-01,25,f,12,Good and cheap,22,Phone,,0,Cash,South,Country,15000.00,69.33,279.00
+0013000000833sU,1991-03-22,26,f,8,Sales,76,Email,single,1,Apple Pay,South,City,10200.00,349.00,69.00
+0013000000Ds37j,1985-12-09,29,m,8,Good and cheap,144,Letter,,0,Cash,North,Country,15750.00,94.50,219.00
+0017000000c2LWH,1992-07-18,34,m,12,Good and cheap,18,Social Media,single,1,Credit Card,South,Country,15750.00,54.00,89.00
+0017000000N7MAd,1980-03-12,27,m,18,Middle Price Segment,125,Email,single,0,Credit Card,South,City,32490.00,54.00,199.00
+0017000000YzLkQ,1986-01-09,40,m,18,Middle Price Segment,74,Email,Married,0,Apple Pay,South,City,34980.00,,219.00
+001300000082wp1,1986-09-24,34,m,15,Upper Price Segment,132,Email,,0,Credit Card,North,City,17250.00,43.86,219.00
+001300000082xUa,1969-06-22,33,f,12,Good and cheap,144,Letter,,0,Credit Card,North,City,12000.00,22.00,219.00
+001300000082yU9,1991-09-26,50,f,16,Upper Price Segment,26,Phone,single,0,Apple Pay,South,City,18000.00,22.00,599.00
+0013000000831Sl,1992-06-13,28,f,15,Upper Price Segment,5,Social Media,single,0,Credit Card,South,Country,18000.00,22.00,599.00
+0013000000A0gkx,1993-09-24,27,f,12,Good and cheap,32,Phone,single,0,Apple Pay,South,City,10950.00,19.45,299.00
+0015000000IOzwe,1957-07-14,26,m,8,Good and cheap,408,Letter,Married,0,Cash,North,Country,15750.00,19.45,24.99
+0017000000KW9gF,1991-05-28,62,m,16,Middle Price Segment,45,Phone,,1,Credit Card,South,City,21240.00,22.00,109.00
+0017000000UcOFj,1997-06-14,28,f,12,Good and cheap,2,Social Media,single,0,Cash,South,City,11550.00,39.50,259.00
+00130000003AfHR,1994-12-28,22,f,8,Sales,43,Phone,,1,Apple Pay,North,Country,10200.00,,86.00
+001300000082xjC,1994-03-25,25,f,8,Sales,281,Letter,single,0,Credit Card,North,City,10650.00,14.99,129.00
+001300000082yM1,1990-09-21,26,f,8,Sales,318,Letter,Married,1,Apple Pay,North,City,12450.00,7.23,259.00
+0013000000830AX,1972-06-07,29,m,12,Middle Price Segment,272,Letter,Married,1,Cash,North,City,33750.00,19.71,259.00
+00130000008cSoP,1975-10-18,47,f,12,Good and cheap,117,Email,single,0,Credit Card,South,City,14250.00,19.71,89.00
+0015000000G7ggd,1980-10-25,44,m,16,Middle Price Segment,150,Letter,,0,Apple Pay,South,City,60000.00,19.71,149.99
+0017000000fMawh,1991-02-28,39,m,12,Good and cheap,72,Email,Married,1,Credit Card,North,City,16500.00,22.00,239.00
+0017000000QyTCa,1996-09-20,29,f,12,Good and cheap,7,Social Media,,0,Credit Card,South,City,16500.00,,69.00
+001300000036oTz,1996-01-02,23,f,15,Upper Price Segment,22,Phone,,1,Credit Card,South,Country,13950.00,,299.00
+001300000082xj7,1971-12-27,24,f,12,Good and cheap,228,Letter,single,0,Cash,South,City,12000.00,,199.00
+001300000082ylz,1989-10-27,48,f,16,Middle Price Segment,15,Social Media,,0,Cash,North,City,30000.00,,89.00
+0013000000830AF,1965-08-07,30,f,17,Upper Price Segment,375,Letter,single,0,Apple Pay,South,City,12750.00,,349.00
+00130000008cSOG,1966-09-06,54,f,12,Good and cheap,132,Email,single,0,Apple Pay,South,City,15750.00,,449.00
+0015000000FTvLd,1993-06-14,53,f,12,Good and cheap,32,Phone,single,0,Credit Card,South,City,13500.00,,449.00
+0017000000fMAAY,1989-04-13,26,f,8,Sales,159,Letter,single,0,Credit Card,South,City,12000.00,,79.00
+0017000000QyHCl,1982-07-26,31,m,12,Good and cheap,155,Letter,,0,Apple Pay,South,City,15750.00,,94.00
+001300000082woI,1973-09-23,37,f,12,Good and cheap,154,Letter,Married,0,Credit Card,South,City,11250.00,,378.00
+001300000082xTF,1988-10-04,46,m,15,Upper Price Segment,83,Email,Married,0,Apple Pay,North,City,17250.00,,94.00
+001300000082yto,1993-03-28,31,m,15,Upper Price Segment,48,Phone,Married,0,Credit Card,South,Country,15000.00,,159.00
+0013000000831lw,1989-06-05,27,f,8,Sales,184,Letter,single,0,Credit Card,South,Country,10200.00,18.96,74.00
+00130000009Vwut,1971-08-28,30,f,15,Upper Price Segment,49,Phone,single,0,Credit Card,South,Country,13500.00,,74.00
+0015000000IhohC,1968-10-28,48,f,12,Good and cheap,56,Email,single,0,Credit Card,South,Country,10200.00,,299.00
+0017000000KVU24,1995-12-28,51,f,12,Good and cheap,30,Phone,single,0,Apple Pay,South,City,15300.00,,299.00
+0017000000TvYgh,1993-10-25,24,f,12,Good and cheap,18,Social Media,,1,Cash,South,Country,13950.00,,109.00
+001300000082xA3,1987-08-25,26,f,8,Sales,319,Letter,,1,Cash,South,City,10200.00,,109.00
+001300000082ybG,1981-10-19,32,m,16,Upper Price Segment,138,Email,Married,0,Credit Card,South,Country,18000.00,,179.00
+001300000082zqL,1974-08-11,38,f,12,Good and cheap,116,Email,single,0,Credit Card,North,City,10200.00,,69.00
+0013000000833sw,1993-03-03,45,f,8,Sales,194,Letter,Married,1,Credit Card,North,City,10200.00,,99.00
+0013000000Ds8yf,1988-08-06,130,f,12,Good and cheap,68,Email,Married,0,Cash,North,City,12000.00,,
+0017000000c2UVY,1969-10-07,31,f,12,Good and cheap,271,Letter,Married,0,Credit Card,North,City,10200.00,,399.00
+0017000000N7MCA,1970-12-05,50,f,12,Good and cheap,169,Letter,Married,0,Cash,North,City,13500.00,,399.00
+0017000000YzM1C,1995-04-01,49,m,14,Upper Price Segment,15,Social Media,,0,Credit Card,South,City,15000.00,,104.00
+001300000082wn7,1990-06-07,25,f,16,Upper Price Segment,12,Social Media,,0,Credit Card,North,Country,18000.00,,149.00
+001300000082xQ6,1993-08-21,29,f,16,Middle Price Segment,11,Social Media,,0,Credit Card,North,City,18000.00,,149.00
+001300000082yrc,1963-01-07,26,m,15,Upper Price Segment,372,Letter,,0,Apple Pay,North,Country,15750.00,,149.00
+0013000000830yI,1977-03-16,57,m,12,Good and cheap,216,Letter,single,1,Cash,North,City,16500.00,,
+00130000009HdpS,1994-12-11,43,m,15,Upper Price Segment,15,Social Media,single,1,Apple Pay,North,City,15750.00,,349.00
+0015000000I0TOx,1994-02-23,25,m,12,Good and cheap,41,Phone,single,0,Apple Pay,South,Country,14700.00,,499.00
+0017000000jwgk2,1992-02-25,26,m,15,Upper Price Segment,48,Phone,single,0,Credit Card,South,Country,15750.00,22.00,168.00
+0017000000SzpRa,1993-04-16,28,m,15,Upper Price Segment,56,Email,single,0,Credit Card,South,Country,15750.00,22.00,49.00
+001300000082wmx,1958-02-06,27,f,8,Sales,275,Letter,,1,Credit Card,South,Country,10200.00,,49.00
+001300000082xpx,1994-09-27,24,f,8,Sales,102,Email,Married,1,Credit Card,North,City,13050.00,,219.00
+001300000082yR1,1968-07-10,25,f,12,Good and cheap,82,Email,Married,0,Apple Pay,North,City,13500.00,34.50,113.00
+00130000009e5rx,1973-11-30,46,m,17,Upper Price Segment,192,Letter,single,0,Credit Card,South,City,18000.00,149.50,98.00
+0015000000HNErz,1987-03-07,33,m,12,Good and cheap,120,Email,single,0,Credit Card,South,Country,15750.00,149.50,199.00
+0017000000jJtUm,1988-10-19,31,m,17,Middle Price Segment,67,Email,single,0,Credit Card,South,City,28740.00,33.00,149.00
+0017000000SzI0Q,1983-03-29,37,f,12,Good and cheap,127,Email,Married,1,Credit Card,South,Country,13050.00,,300.00
+001300000082x4H,1958-02-16,62,m,12,Good and cheap,348,Letter,,1,Credit Card,North,City,15750.00,28.99,249.00
+001300000082xYM,1962-01-03,58,m,8,Good and cheap,174,Letter,single,0,Credit Card,South,Country,15750.00,79.99,40.00
+001300000082yYT,1992-06-21,27,m,19,Middle Price Segment,74,Email,Married,1,Credit Card,South,City,31980.00,,253.00
+0013000000833g2,1986-05-20,33,m,14,Upper Price Segment,110,Email,Married,1,Credit Card,North,City,16500.00,37.00,165.00
+0013000000Bqrsm,1986-08-31,33,m,19,Middle Price Segment,81,Email,Married,0,Credit Card,North,Country,32490.00,69.33,314.00
+0017000000asO53,1996-03-27,24,f,15,Upper Price Segment,7,Social Media,Married,0,Credit Card,North,City,13500.00,349.00,239.00
+0017000000LL80t,1996-05-30,23,f,12,Good and cheap,12,Social Media,,1,Apple Pay,North,City,12450.00,94.50,199.99
+0017000000VMm8b,1997-09-27,22,f,12,Good and cheap,0,Social Media,,1,Credit Card,North,City,12000.00,33.00,199.99
+00130000002Pl2B,1996-11-09,23,f,12,Good and cheap,0,Social Media,,1,Apple Pay,North,City,12450.00,33.00,199.99
+001300000082xhW,1997-06-22,22,f,8,Sales,17,Social Media,,1,Cash,North,City,12450.00,,199.99
+001300000082yJy,1997-07-25,22,f,12,Good and cheap,2,Social Media,,1,Credit Card,North,City,11250.00,43.86,199.99
+00130000008306g,1998-01-02,22,f,12,Good and cheap,0,Social Media,,1,Apple Pay,South,Country,,33.00,109.00
+00130000008cRvg,1997-06-04,22,f,12,Good and cheap,5,Social Media,single,1,Apple Pay,South,City,12300.00,33.00,279.00
+0015000000Fpkug,1998-04-08,22,f,12,Good and cheap,5,Social Media,single,1,Credit Card,South,City,12450.00,33.00,279.00
+0017000000eU0OG,1997-06-24,22,f,12,Good and cheap,0,Social Media,single,1,Cash,South,City,11250.00,19.45,279.00
+0017000000QOLVA,1996-12-22,23,f,12,Good and cheap,20,Phone,single,1,Credit Card,South,City,12750.00,19.45,279.00
+001300000082wnK,1997-07-30,22,f,12,Good and cheap,0,Social Media,single,0,Apple Pay,South,Country,11250.00,33.00,149.00
+001300000082xrc,1997-06-25,22,f,12,Good and cheap,2,Social Media,,0,Cash,South,Country,11250.00,39.50,49.00
+001300000082ysE,1997-09-13,22,f,12,Good and cheap,3,Social Media,Married,0,Credit Card,South,Country,11250.00,,132.00
+00130000008318x,1980-09-16,39,f,12,Good and cheap,121,Email,single,0,Credit Card,South,City,15000.00,14.99,288.00
+00130000009iw4W,1971-11-28,48,f,12,Good and cheap,133,Email,Married,1,Credit Card,South,City,13950.00,7.23,94.00
+0015000000ICI7I,1993-02-20,27,m,17,Middle Price Segment,17,Social Media,,0,Credit Card,South,City,32490.00,19.71,249.00
+0017000000KVaFA,1993-01-22,27,m,15,Upper Price Segment,55,Email,,0,Cash,South,Country,15750.00,19.71,349.00
+0017000000Th7Hh,1991-06-30,28,m,19,Middle Price Segment,9,Social Media,single,0,Credit Card,South,City,33000.00,19.71,89.00
+001300000082x2p,1990-04-08,30,m,19,Upper Price Segment,21,Phone,Married,1,Apple Pay,South,City,19500.00,,189.00
+001300000082xWU,1993-05-27,26,f,8,Sales,344,Letter,,1,Apple Pay,North,City,18750.00,,299.00
+001300000082yWa,1959-01-06,61,f,12,Good and cheap,180,Letter,,1,Credit Card,North,City,10200.00,149.00,239.00
+0013000000832H8,1997-11-01,22,f,12,Good and cheap,2,Social Media,single,0,Credit Card,North,City,11250.00,149.99,248.00
+0013000000AsF8T,1993-07-29,26,f,16,Middle Price Segment,11,Social Media,,0,Credit Card,South,City,19500.00,22.00,899.00
+0015000000JkKAx,1988-05-26,31,m,8,Good and cheap,155,Letter,single,1,Credit Card,South,City,15750.00,,297.00
+0017000000LeqDp,1990-09-17,29,m,15,Upper Price Segment,70,Email,single,0,Apple Pay,South,City,15750.00,39.89,99.99
+0017000000V1d2B,1992-06-03,27,m,15,Upper Price Segment,6,Social Media,single,1,Credit Card,North,Country,13500.00,33.03,99.00
+00130000002rHCm,1994-12-07,25,m,15,Upper Price Segment,36,Phone,Married,1,Credit Card,South,City,15000.00,33.03,99.00
+001300000082xhX,1992-10-21,27,m,15,Upper Price Segment,46,Phone,Married,1,Credit Card,North,Country,15750.00,10.89,89.00
+001300000082yKE,1992-03-07,28,m,15,Upper Price Segment,68,Email,single,0,Apple Pay,South,City,16500.00,21.60,94.00
+00130000008306m,1984-12-01,35,m,19,Middle Price Segment,75,Email,single,0,Cash,North,City,35040.00,,34.95
+00130000008cRwV,1989-03-19,31,m,15,Upper Price Segment,96,Email,,0,Credit Card,North,City,15750.00,,149.00
+0015000000FpnT5,1990-12-05,29,m,15,Upper Price Segment,78,Email,single,0,Credit Card,South,City,16500.00,,99.00
+0017000000eUDaJ,1963-09-12,56,f,12,Good and cheap,196,Letter,Married,1,Credit Card,South,Country,13800.00,,299.00
+0017000000QRa1y,1993-11-21,26,f,15,Upper Price Segment,47,Phone,single,1,Credit Card,South,Country,11100.00,,69.00
+00130000003Aej5,1969-06-13,50,f,12,Good and cheap,181,Letter,single,0,Credit Card,North,City,13500.00,21.99,499.00
+001300000082xj8,1980-03-14,40,m,16,Upper Price Segment,120,Email,single,0,Apple Pay,North,Country,17490.00,,499.00
+001300000082ym0,1993-09-06,26,m,8,Sales,97,Email,,0,Apple Pay,North,City,16050.00,39.99,69.00
+0013000000830AG,1991-07-16,28,m,15,Upper Price Segment,58,Email,single,1,Credit Card,South,City,15750.00,,59.99
+00130000008cSoM,1973-12-29,46,m,8,Good and cheap,305,Letter,,0,Credit Card,North,City,15750.00,,51.00
+0015000000G7AZr,1983-09-15,36,m,19,Sales,99,Email,,0,Apple Pay,South,Country,34980.00,,129.00
+0017000000fMajZ,1986-06-02,33,m,18,Middle Price Segment,50,Phone,single,0,Apple Pay,South,City,45000.00,17.53,54.00
+0017000000QyT3e,1991-07-29,28,m,12,Good and cheap,56,Email,single,0,Cash,North,Country,15000.00,13.79,189.00
+001300000082w3Z,1994-04-02,26,m,12,Good and cheap,47,Phone,,1,Credit Card,North,City,15750.00,,349.00
+001300000082xOB,1927-05-18,,m,16,Upper Price Segment,55,Email,,1,Cash,South,City,20250.00,22.00,189.00
+001300000082yPd,1991-10-10,28,m,15,Upper Price Segment,80,Email,,1,Cash,South,City,16500.00,42.99,189.00
+0013000000830ng,1992-10-12,27,m,12,Good and cheap,80,Email,,1,Credit Card,South,Country,15750.00,,189.00
+00130000008xr2m,1989-01-20,31,m,8,Sales,264,Letter,,1,Apple Pay,North,Country,16050.00,22.00,269.00
+0015000000GHV71,1992-02-27,28,m,15,Upper Price Segment,64,Email,,1,Credit Card,North,Country,15000.00,22.00,269.00
+0017000000ixcir,1997-11-10,22,f,12,Good and cheap,0,Social Media,,1,Cash,North,City,11250.00,22.00,269.00
+0017000000SwhPL,1993-03-28,27,f,8,Sales,96,Email,,0,Cash,South,City,12750.00,,59.00
+001300000082xBQ,1976-12-18,43,f,15,Upper Price Segment,122,Email,Married,1,Credit Card,North,City,13500.00,,99.00
+001300000082yE6,1996-02-04,24,f,12,Good and cheap,26,Phone,Married,0,Apple Pay,South,City,13500.00,,249.00
+001300000082ztb,1956-06-28,24,f,8,Sales,228,Letter,,1,Credit Card,North,Country,13500.00,,229.00
+0013000000833wd,1989-02-01,31,f,12,Good and cheap,87,Email,Married,1,Credit Card,South,City,15750.00,58.47,109.00
+0015000000EftRG,1990-12-20,29,m,15,Upper Price Segment,84,Email,,1,Credit Card,North,City,16500.00,,99.99
+0017000000ciJhA,1985-12-19,34,m,16,Middle Price Segment,128,Email,single,1,Credit Card,South,City,44100.00,,239.00
+0017000000Ntl34,1988-11-17,31,m,15,Upper Price Segment,86,Email,,1,Cash,South,City,20550.00,,59.00
